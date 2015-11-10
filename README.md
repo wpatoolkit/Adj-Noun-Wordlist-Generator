@@ -42,6 +42,6 @@ Will output (adjective)+(noun)+(3 digits) only<br>
 `-full`<br>
 Uses a more comprehensive set of words.
 
-By default a set of 152 adjectives and 136 nouns are used (approx. 20,878,720 combinations ~ 319MB).
+By default a set of 153 adjectives and 136 nouns are used (approx. 21,016,080 combinations ~ 321MB).
 
 If you use the -full switch 968 adjectives and 1,844 nouns are used (approx. 1,802,841,920 combinations ~ 27.5GB).
